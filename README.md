@@ -1,7 +1,7 @@
 [vanilla](http://vanillaforums.org/) forum for SAE
 ===============
 
-** Locales
+**Locales**
 
 Chinese locale has been installed as the default language.
 
