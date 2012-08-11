@@ -1,6 +1,0 @@
----
-name: vanillasae
-version: 1
-handle:
-  - rewrite: if(!is_dir() && !is_file()) goto "index.php?p=%{REQUEST_URI}"
-...
