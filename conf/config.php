@@ -24,7 +24,8 @@ $Configuration['EnabledPlugins']['GettingStarted'] = 'GettingStarted';
 $Configuration['EnabledPlugins']['HtmLawed'] = 'HtmLawed';
 
 // Garden
-$Configuration['Garden']['Locale']                              = 'zh-CN';
+//$Configuration['Garden']['Locale']                              = 'zh-CN';
+$Configuration['Garden']['Locale']                              = 'en-CA';
 $Configuration['Garden']['LocaleCodeset']                       = 'UTF8';
 $Configuration['Garden']['Title'] = 'test';
 $Configuration['Garden']['Cookie']['Salt'] = 'F8PJWF42MC';
@@ -60,5 +61,6 @@ $Configuration['Routes']['DefaultController'] = 'discussions';
 // Vanilla
 $Configuration['Vanilla']['Version'] = '2.0.18.4';
 
-$Configuration['EnabledLocales']['Chinese'] = 'zh-CN';
+//$Configuration['EnabledLocales']['Chinese'] = 'zh-CN';
+$Configuration['EnabledLocales']['English'] = 'en-CA';
 // Last edited by admin (127.0.0.1)2012-08-03 17:33:28
