@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/vanillasae/!svn/ver/86/1/library/core
+END
+class.module.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/vanillasae/!svn/ver/26/1/library/core/class.module.php
+END
+class.dispatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/vanillasae/!svn/ver/28/1/library/core/class.dispatcher.php
+END
+class.uploadimage.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/vanillasae/!svn/ver/26/1/library/core/class.uploadimage.php
+END
+class.format.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/vanillasae/!svn/ver/26/1/library/core/class.format.php
+END
+class.configurationmodel.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/vanillasae/!svn/ver/26/1/library/core/class.configurationmodel.php
+END
+class.request.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/vanillasae/!svn/ver/26/1/library/core/class.request.php
+END
+class.pluginmanager.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/vanillasae/!svn/ver/26/1/library/core/class.pluginmanager.php
+END
+class.proxyrequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/vanillasae/!svn/ver/26/1/library/core/class.proxyrequest.php
+END
+class.dummy.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/vanillasae/!svn/ver/26/1/library/core/class.dummy.php
+END
+class.userexception.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/vanillasae/!svn/ver/26/1/library/core/class.userexception.php
+END
+functions.validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/vanillasae/!svn/ver/26/1/library/core/functions.validation.php
+END
+class.regardingentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/vanillasae/!svn/ver/26/1/library/core/class.regardingentity.php
+END
+class.slice.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/vanillasae/!svn/ver/26/1/library/core/class.slice.php
+END
+class.schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/vanillasae/!svn/ver/26/1/library/core/class.schema.php
+END
+class.modulecollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/vanillasae/!svn/ver/26/1/library/core/class.modulecollection.php
+END
+class.pluggable.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/vanillasae/!svn/ver/26/1/library/core/class.pluggable.php
+END
+class.regarding.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/vanillasae/!svn/ver/26/1/library/core/class.regarding.php
+END
+class.theme.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/vanillasae/!svn/ver/26/1/library/core/class.theme.php
+END
+interface.iplugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/vanillasae/!svn/ver/26/1/library/core/interface.iplugin.php
+END
+class.form.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/vanillasae/!svn/ver/26/1/library/core/class.form.php
+END
+class.filecache.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/vanillasae/!svn/ver/26/1/library/core/class.filecache.php
+END
+class.passwordhash.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/vanillasae/!svn/ver/26/1/library/core/class.passwordhash.php
+END
+interface.isingleton.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/vanillasae/!svn/ver/26/1/library/core/interface.isingleton.php
+END
+class.gdn.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/vanillasae/!svn/ver/33/1/library/core/class.gdn.php
+END
+class.authenticator.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/vanillasae/!svn/ver/26/1/library/core/class.authenticator.php
+END
+class.sliceprovider.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/vanillasae/!svn/ver/26/1/library/core/class.sliceprovider.php
+END
+functions.general.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/vanillasae/!svn/ver/66/1/library/core/functions.general.php
+END
+functions.render.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/vanillasae/!svn/ver/26/1/library/core/functions.render.php
+END
+class.controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/vanillasae/!svn/ver/26/1/library/core/class.controller.php
+END
+class.cookieidentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/vanillasae/!svn/ver/26/1/library/core/class.cookieidentity.php
+END
+class.upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/vanillasae/!svn/ver/26/1/library/core/class.upload.php
+END
+class.pagerfactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/vanillasae/!svn/ver/26/1/library/core/class.pagerfactory.php
+END
+class.condition.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/vanillasae/!svn/ver/26/1/library/core/class.condition.php
+END
+class.email.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/vanillasae/!svn/ver/26/1/library/core/class.email.php
+END
+interface.imodule.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/vanillasae/!svn/ver/26/1/library/core/interface.imodule.php
+END
+class.statistics.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/vanillasae/!svn/ver/26/1/library/core/class.statistics.php
+END
+class.validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/vanillasae/!svn/ver/26/1/library/core/class.validation.php
+END
+interface.ihandshake.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/vanillasae/!svn/ver/26/1/library/core/interface.ihandshake.php
+END
+functions.error.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/vanillasae/!svn/ver/26/1/library/core/functions.error.php
+END
+class.thememanager.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/vanillasae/!svn/ver/26/1/library/core/class.thememanager.php
+END
+interface.iidentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/vanillasae/!svn/ver/26/1/library/core/interface.iidentity.php
+END
+class.applicationmanager.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/vanillasae/!svn/ver/26/1/library/core/class.applicationmanager.php
+END
+class.plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/vanillasae/!svn/ver/26/1/library/core/class.plugin.php
+END
+class.locale.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/vanillasae/!svn/ver/26/1/library/core/class.locale.php
+END
+class.autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/vanillasae/!svn/ver/26/1/library/core/class.autoloader.php
+END
+class.model.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/vanillasae/!svn/ver/26/1/library/core/class.model.php
+END
+class.auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/vanillasae/!svn/ver/48/1/library/core/class.auth.php
+END
+class.memcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/vanillasae/!svn/ver/26/1/library/core/class.memcache.php
+END
+class.librarymap.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/vanillasae/!svn/ver/26/1/library/core/class.librarymap.php
+END
+class.url.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/vanillasae/!svn/ver/26/1/library/core/class.url.php
+END
+class.cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/vanillasae/!svn/ver/26/1/library/core/class.cache.php
+END
+class.memcached.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/vanillasae/!svn/ver/26/1/library/core/class.memcached.php
+END
+class.formatterchain.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/vanillasae/!svn/ver/26/1/library/core/class.formatterchain.php
+END
+class.factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/vanillasae/!svn/ver/53/1/library/core/class.factory.php
+END
+class.configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/vanillasae/!svn/ver/26/1/library/core/class.configuration.php
+END
+class.authenticationprovidermodel.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/vanillasae/!svn/ver/26/1/library/core/class.authenticationprovidermodel.php
+END
+class.dirtycache.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/vanillasae/!svn/ver/26/1/library/core/class.dirtycache.php
+END
+class.smarty.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/vanillasae/!svn/ver/86/1/library/core/class.smarty.php
+END
+class.router.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/vanillasae/!svn/ver/26/1/library/core/class.router.php
+END
+class.timer.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/vanillasae/!svn/ver/26/1/library/core/class.timer.php
+END
+class.session.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/vanillasae/!svn/ver/31/1/library/core/class.session.php
+END
+class.filesystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/vanillasae/!svn/ver/26/1/library/core/class.filesystem.php
+END

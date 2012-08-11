@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers
+END
+class.routescontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.routescontroller.php
+END
+class.logcontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.logcontroller.php
+END
+class.sessioncontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.sessioncontroller.php
+END
+class.messagecontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.messagecontroller.php
+END
+class.modulecontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.modulecontroller.php
+END
+class.dashboardcontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.dashboardcontroller.php
+END
+class.homecontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.homecontroller.php
+END
+class.statisticscontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.statisticscontroller.php
+END
+class.activitycontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.activitycontroller.php
+END
+class.plugincontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.plugincontroller.php
+END
+class.profilecontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.profilecontroller.php
+END
+class.settingscontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.settingscontroller.php
+END
+class.setupcontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.setupcontroller.php
+END
+class.rolecontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.rolecontroller.php
+END
+class.entrycontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.entrycontroller.php
+END
+class.utilitycontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.utilitycontroller.php
+END
+class.searchcontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.searchcontroller.php
+END
+class.notificationscontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.notificationscontroller.php
+END
+class.importcontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.importcontroller.php
+END
+class.embedcontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.embedcontroller.php
+END
+class.usercontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.usercontroller.php
+END
+class.authenticationcontroller.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/vanillasae/!svn/ver/54/1/applications/dashboard/controllers/class.authenticationcontroller.php
+END

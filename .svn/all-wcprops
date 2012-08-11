@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/vanillasae/!svn/ver/89/1
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/vanillasae/!svn/ver/55/1/LICENSE.txt
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/vanillasae/!svn/ver/55/1/readme.html
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/vanillasae/!svn/ver/82/1/bootstrap.php
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/vanillasae/!svn/ver/13/1/test.php
+END
+config.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/vanillasae/!svn/ver/73/1/config.yaml
+END
+nolock.dump
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/vanillasae/!svn/ver/71/1/nolock.dump
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/vanillasae/!svn/ver/71/1/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/vanillasae/!svn/ver/88/1/index.php
+END

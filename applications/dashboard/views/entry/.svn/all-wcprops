@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry
+END
+registerapproval.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/registerapproval.php
+END
+connect.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/connect.php
+END
+registerinvitation.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/registerinvitation.php
+END
+leave.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/leave.php
+END
+registerthanks.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/registerthanks.php
+END
+redirect.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/redirect.php
+END
+connecterror.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/connecterror.php
+END
+passwordreset.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/passwordreset.php
+END
+passwordrequestsent.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/passwordrequestsent.php
+END
+emailconfirm.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/emailconfirm.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/index.php
+END
+registercaptcha.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/registercaptcha.php
+END
+signin2.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/signin2.php
+END
+passwordrequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/passwordrequest.php
+END
+registerclosed.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/registerclosed.php
+END
+emailconfirmrequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/emailconfirmrequest.php
+END
+syncfailed.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/syncfailed.php
+END
+registerbasic.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/registerbasic.php
+END
+passwordform.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/passwordform.php
+END
+handshake.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/handshake.php
+END
+signin.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/signin.php
+END
+signout.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/vanillasae/!svn/ver/54/1/applications/dashboard/views/entry/signout.php
+END

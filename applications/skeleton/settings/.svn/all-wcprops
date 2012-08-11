@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/vanillasae/!svn/ver/54/1/applications/skeleton/settings
+END
+about.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/vanillasae/!svn/ver/54/1/applications/skeleton/settings/about.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/vanillasae/!svn/ver/54/1/applications/skeleton/settings/bootstrap.php
+END
+structure.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/vanillasae/!svn/ver/54/1/applications/skeleton/settings/structure.php
+END
+class.hooks.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/vanillasae/!svn/ver/54/1/applications/skeleton/settings/class.hooks.php
+END
+configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/vanillasae/!svn/ver/54/1/applications/skeleton/settings/configuration.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/vanillasae/!svn/ver/54/1/applications/conversations/models
+END
+class.conversationmodel.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/vanillasae/!svn/ver/54/1/applications/conversations/models/class.conversationmodel.php
+END
+class.conversationmessagemodel.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/vanillasae/!svn/ver/54/1/applications/conversations/models/class.conversationmessagemodel.php
+END

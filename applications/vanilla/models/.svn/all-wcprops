@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/vanillasae/!svn/ver/54/1/applications/vanilla/models
+END
+class.vanillamodel.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/vanillasae/!svn/ver/54/1/applications/vanilla/models/class.vanillamodel.php
+END
+class.vanillasearchmodel.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/vanillasae/!svn/ver/54/1/applications/vanilla/models/class.vanillasearchmodel.php
+END
+class.categorymodel.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/vanillasae/!svn/ver/54/1/applications/vanilla/models/class.categorymodel.php
+END
+class.draftmodel.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/vanillasae/!svn/ver/54/1/applications/vanilla/models/class.draftmodel.php
+END
+class.commentmodel.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/vanillasae/!svn/ver/54/1/applications/vanilla/models/class.commentmodel.php
+END
+class.discussionmodel.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/vanillasae/!svn/ver/54/1/applications/vanilla/models/class.discussionmodel.php
+END

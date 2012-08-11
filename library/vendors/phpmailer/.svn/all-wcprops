@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/vanillasae/!svn/ver/26/1/library/vendors/phpmailer
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/vanillasae/!svn/ver/26/1/library/vendors/phpmailer/LICENSE
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/vanillasae/!svn/ver/26/1/library/vendors/phpmailer/class.phpmailer.php
+END
+class.pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/vanillasae/!svn/ver/26/1/library/vendors/phpmailer/class.pop3.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/vanillasae/!svn/ver/26/1/library/vendors/phpmailer/README
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/vanillasae/!svn/ver/26/1/library/vendors/phpmailer/class.smtp.php
+END

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins
+END
+function.home_link.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.home_link.php
+END
+function.bookmarks_link.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.bookmarks_link.php
+END
+function.photo_link.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.photo_link.php
+END
+modifier.translate.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/modifier.translate.php
+END
+function.forum_root_link.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.forum_root_link.php
+END
+function.activity_link.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.activity_link.php
+END
+function.vanillaurl.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.vanillaurl.php
+END
+function.profile_link.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.profile_link.php
+END
+function.searchbox.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.searchbox.php
+END
+function.asset.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.asset.php
+END
+function.event.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.event.php
+END
+function.nomobile_link.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.nomobile_link.php
+END
+function.discussions_link.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.discussions_link.php
+END
+function.text.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.text.php
+END
+function.module.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.module.php
+END
+modifier.date.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/modifier.date.php
+END
+function.breadcrumbs.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.breadcrumbs.php
+END
+function.mydiscussions_link.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.mydiscussions_link.php
+END
+function.category_link.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.category_link.php
+END
+function.user_link.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.user_link.php
+END
+function.inbox_link.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.inbox_link.php
+END
+function.signinout_link.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.signinout_link.php
+END
+function.link.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.link.php
+END
+block.permission.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/block.permission.php
+END
+function.custom_menu.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.custom_menu.php
+END
+function.logo.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.logo.php
+END
+function.drafts_link.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.drafts_link.php
+END
+function.t.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.t.php
+END
+function.dashboard_link.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.dashboard_link.php
+END
+function.signin_link.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/vanillasae/!svn/ver/26/1/library/vendors/SmartyPlugins/function.signin_link.php
+END

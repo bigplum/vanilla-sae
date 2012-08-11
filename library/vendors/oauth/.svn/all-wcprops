@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/vanillasae/!svn/ver/26/1/library/vendors/oauth
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/vanillasae/!svn/ver/26/1/library/vendors/oauth/LICENSE.txt
+END
+url.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/vanillasae/!svn/ver/26/1/library/vendors/oauth/url.txt
+END
+OAuthTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/vanillasae/!svn/ver/26/1/library/vendors/oauth/OAuthTests.xml
+END
+OAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/vanillasae/!svn/ver/26/1/library/vendors/oauth/OAuth.php
+END
+OAuth_TestServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/vanillasae/!svn/ver/26/1/library/vendors/oauth/OAuth_TestServer.php
+END

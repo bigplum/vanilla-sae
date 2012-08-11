@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/vanillasae/!svn/ver/55/1/plugins/Minify/min/lib/Minify
+END
+ImportProcessor.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/vanillasae/!svn/ver/55/1/plugins/Minify/min/lib/Minify/ImportProcessor.php
+END
+Lines.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/vanillasae/!svn/ver/55/1/plugins/Minify/min/lib/Minify/Lines.php
+END
+Build.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/vanillasae/!svn/ver/55/1/plugins/Minify/min/lib/Minify/Build.php
+END
+Logger.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/vanillasae/!svn/ver/55/1/plugins/Minify/min/lib/Minify/Logger.php
+END
+CommentPreserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/vanillasae/!svn/ver/55/1/plugins/Minify/min/lib/Minify/CommentPreserver.php
+END
+Source.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/vanillasae/!svn/ver/55/1/plugins/Minify/min/lib/Minify/Source.php
+END
+YUICompressor.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/vanillasae/!svn/ver/55/1/plugins/Minify/min/lib/Minify/YUICompressor.php
+END
+HTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/vanillasae/!svn/ver/55/1/plugins/Minify/min/lib/Minify/HTML.php
+END
+Packer.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/vanillasae/!svn/ver/55/1/plugins/Minify/min/lib/Minify/Packer.php
+END
+CSS.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/vanillasae/!svn/ver/55/1/plugins/Minify/min/lib/Minify/CSS.php
+END

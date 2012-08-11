@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/vanillasae/!svn/ver/54/1/applications/dashboard/modules
+END
+class.recentusermodule.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/vanillasae/!svn/ver/54/1/applications/dashboard/modules/class.recentusermodule.php
+END
+class.morepagermodule.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/vanillasae/!svn/ver/54/1/applications/dashboard/modules/class.morepagermodule.php
+END
+class.messagemodule.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/vanillasae/!svn/ver/54/1/applications/dashboard/modules/class.messagemodule.php
+END
+class.conditionmodule.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/vanillasae/!svn/ver/54/1/applications/dashboard/modules/class.conditionmodule.php
+END
+class.guestmodule.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/vanillasae/!svn/ver/54/1/applications/dashboard/modules/class.guestmodule.php
+END
+class.userphotomodule.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/vanillasae/!svn/ver/54/1/applications/dashboard/modules/class.userphotomodule.php
+END
+class.userinfomodule.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/vanillasae/!svn/ver/54/1/applications/dashboard/modules/class.userinfomodule.php
+END
+class.recentactivitymodule.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/vanillasae/!svn/ver/54/1/applications/dashboard/modules/class.recentactivitymodule.php
+END
+class.pagermodule.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/vanillasae/!svn/ver/54/1/applications/dashboard/modules/class.pagermodule.php
+END
+class.signedinmodule.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/vanillasae/!svn/ver/54/1/applications/dashboard/modules/class.signedinmodule.php
+END
+class.settingsmodule.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/vanillasae/!svn/ver/54/1/applications/dashboard/modules/class.settingsmodule.php
+END
+class.headmodule.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/vanillasae/!svn/ver/54/1/applications/dashboard/modules/class.headmodule.php
+END
+class.menumodule.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/vanillasae/!svn/ver/54/1/applications/dashboard/modules/class.menumodule.php
+END
+class.configurationmodule.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/vanillasae/!svn/ver/54/1/applications/dashboard/modules/class.configurationmodule.php
+END
+class.sidemenumodule.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/vanillasae/!svn/ver/54/1/applications/dashboard/modules/class.sidemenumodule.php
+END

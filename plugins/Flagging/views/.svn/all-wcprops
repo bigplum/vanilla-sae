@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/vanillasae/!svn/ver/55/1/plugins/Flagging/views
+END
+flag.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/vanillasae/!svn/ver/55/1/plugins/Flagging/views/flag.php
+END
+report.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/vanillasae/!svn/ver/55/1/plugins/Flagging/views/report.php
+END
+flagging.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/vanillasae/!svn/ver/55/1/plugins/Flagging/views/flagging.php
+END
+reportcomment.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/vanillasae/!svn/ver/55/1/plugins/Flagging/views/reportcomment.php
+END
+reportemail.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/vanillasae/!svn/ver/55/1/plugins/Flagging/views/reportemail.php
+END
